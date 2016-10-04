@@ -1,0 +1,9 @@
+#ignor bootstrap js
+src/js/bootstrap.js
+
+#ignor bootstrap css
+src/css/bootstrap.css
+src/css/bootstrap-theme.css
+
+#ignor fonts
+src/fonts
